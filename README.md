@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @D-CNG
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning computer science
+- 👀 Full-Stack Software Engineer with experience building and maintaining production web/mobile applications.
 
 <!---
 D-CNG/D-CNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
